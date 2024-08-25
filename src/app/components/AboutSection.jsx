@@ -13,7 +13,6 @@ const TAB_DATA = [
         <li>Vue js</li>
         <li>SQL</li>
         <li>Node.js</li>
-        <li>JavaScript</li>
         <li>JSON</li>
       </ul>
     ),
@@ -23,8 +22,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Bachelors of Science in Information Technology at</li>
-        <li>Multimedia University</li>
+        <li>Bachelors of Science in Information Technology at <br/>
+        Multimedia University</li>
       </ul>
     ),
   },
@@ -48,7 +47,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
           I am a passionate frontend developer with a strong foundation in creating dynamic and responsive web applications. 
-          With expertise in JavaScript, Vue.js, and Tailwind CSS, I specialize in building user-friendly interfaces that deliver a seamless user experience.
+          With expertise in Vue.js, and Tailwind CSS, I specialize in building user-friendly interfaces that deliver a seamless user experience.
           I am proficient in using Git and Bitbucket for version control. 
           My familiarity with JSON enables me to efficiently work with APIs and manage data. 
           I am always eager to learn new technologies and enjoy collaborating with teams to create innovative web solutions.

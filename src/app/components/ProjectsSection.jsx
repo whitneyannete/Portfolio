@@ -9,16 +9,16 @@ const projectsData = [
     description: "This is a homepage design and build for a concept project – a payments system application.",
     image: "/images/projects/1.png",
     gitUrl: "https://github.com/whitneyannete/PAYMENTS-LP",
-    previewUrl: "/",
+    previewUrl: "https://github.com/whitneyannete/PAYMENTS-LP",
   },
   {
     id: 2,
     title: "Onboarding Template",
-    description: "Onboaring Template with light and dark mode.It was converted from a Figma design using Html, Tailwind CSS and Javascript. ",
+    description: "Onboaring Template with light mode and dark mode.It was converted from a Figma design using Html, Tailwind CSS and Javascript. ",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/whitneyannete/Onboarding-Light-and-dark-mode",
-    previewUrl: "/",
+    previewUrl: "https://github.com/whitneyannete/Onboarding-Light-and-dark-mode",
   },
   {
     id: 3,
@@ -26,8 +26,8 @@ const projectsData = [
     description: "My Portfolio built in the Next.js Framework using Tailwind CSS and React Library.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/whitneyannete/Portfolio",
+    previewUrl: "https://github.com/whitneyannete/Portfolio",
   },
 ];
 
